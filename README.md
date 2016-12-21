@@ -1,2 +1,2 @@
 # Codes
-Codes done in Fall 2016.
+Codes in Fall 2016.
